@@ -13,7 +13,7 @@ export {
   Navbar,
   Hero,
   Stats,
-  // Business,
+  Business,
   // Billing,
   // CardDeal,
   // Clients,
