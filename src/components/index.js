@@ -15,7 +15,7 @@ export {
   Stats,
   Business,
   Billing,
-  CardDeal,
+  // CardDeal,
   // Clients,
   // CTA,
   // Footer,
