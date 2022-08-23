@@ -2,7 +2,7 @@ import { card } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () => (
+// const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
