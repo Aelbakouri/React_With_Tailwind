@@ -14,7 +14,6 @@ const CardDeal = () => (
         aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
 
-
       <Button styles={`mt-10`} />
     </div>
 
