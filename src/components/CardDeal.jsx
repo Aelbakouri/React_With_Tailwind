@@ -1,5 +1,5 @@
 import { card } from "../assets";
-import styles, { layout } from "../style";
+import styles, {  } from "../style";
 import Button from "./Button";
 
 const CardDeal = () => (
