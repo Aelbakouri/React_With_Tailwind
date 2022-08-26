@@ -17,7 +17,7 @@ export {
   Billing,
   CardDeal,
   Testimonials,
-  Clients,
+  // Clients,
   // CTA,
   // Footer,
 };
