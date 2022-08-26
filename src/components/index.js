@@ -19,5 +19,5 @@ export {
   // Clients,
   // CTA,
   // Footer,
-  // Testimonials,
+  Testimonials,
 };
