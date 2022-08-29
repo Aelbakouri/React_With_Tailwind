@@ -6,7 +6,7 @@ import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Clients from "./Clients";
 import CTA from "./CTA";
-// import Footer from "./Footer";
+import Footer from "./Footer";
 // import Testimonials from "./Testimonials";
 
 export {
