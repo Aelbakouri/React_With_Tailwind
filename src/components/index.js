@@ -18,6 +18,6 @@ export {
   CardDeal,
   Testimonials,
   Clients,
-  // CTA,
+  CTA,
   // Footer,
 };
